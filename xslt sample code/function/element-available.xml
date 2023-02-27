@@ -1,0 +1,28 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<?xml-stylesheet type = "text/xsl" href = "xslff.1.xsl" ?>
+<airfly>
+<aeroplane>
+<year> 1965 </year>
+<manufacturer> Boeing </manufacturer>
+<modelname> Bk1234 </modelname>
+<colortype> Light red and sandal </colortype>
+</aeroplane>
+<aeroplane>
+<year> 1977 </year>
+<manufacturer> Bizliner </manufacturer>
+<modelname> K567 </modelname>
+<colortype> Light red and sandal </colortype>
+</aeroplane>
+<aeroplane>
+<year> 1966 </year>
+<manufacturer> Dassault Falcon </manufacturer>
+<modelname> DF345 </modelname>
+<colortype> Light blue and grey </colortype>
+</aeroplane>
+<aeroplane>
+<year> 1980 </year>
+<manufacturer> Bombardiere</manufacturer>
+<modelname> B8999 </modelname>
+<colortype> Plain White and brown </colortype>
+</aeroplane>
+</airfly>

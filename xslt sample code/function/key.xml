@@ -1,0 +1,22 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "students.xsl"?>
+<Pharmacy>
+<pharma idno = "693">
+<itemname>Abacavir</itemname>
+<itemprice>500</itemprice>
+<netqty>2000</netqty>
+<itemdiscount>15</itemdiscount>
+</pharma>
+<pharma idno = "852">
+<itemname>Calpol</itemname>
+<itemprice>900</itemprice>
+<netqty>6000</netqty>
+<itemdiscount>10</itemdiscount>
+</pharma>
+<pharma idno = "741">
+<itemname>Pamelor</itemname>
+<itemprice>150</itemprice>
+<netqty>500</netqty>
+<itemdiscount>5</itemdiscount>
+</pharma>
+</Pharmacy>

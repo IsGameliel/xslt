@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<spensstore>
+<store id="1">
+<pname>cosmetics</pname>
+<brand>MAC</brand>
+<price>30.50</price>
+</store>
+<store id="2">
+<pname>shampoo</pname>
+<brand>Dove</brand>
+<price>50.50</price>
+</store>
+<store id="3">
+<pname>eatables</pname>
+<brand>babyjunk</brand>
+<price>41.50</price>
+</store>
+</spensstore>
